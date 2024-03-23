@@ -1,5 +1,5 @@
-public static int FindMaxValue(int[] numbers)
+public static double CalculateAverage(int[] numbers)
 {
-    return numbers.Max();
+    return numbers.Average();
 }
 
